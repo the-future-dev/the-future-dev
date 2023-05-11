@@ -14,21 +14,21 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
   </tr>
   <tr>
     <td><a href="https://github.com/the-future-dev/fuelfighter2023">Fuel Fighter NTNU</a></td>
-    <td>🟡React, 🟢PHP</td>
+    <td>🟡React<br>🟢PHP</td>
     <td>Full Stack</td>
     <td>New website for the universitary association Fuel Fighter NTNU.</td>
     <td><a href="https://www.fuelfighter.no/">fuelfighter.no</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/the-future-dev/NorwegianRailway">Norwegian Railway</a></td>
-    <td>🔴SQLite, 🔵Python</td>
+    <td>🔴SQLite<br>🔵Python</td>
     <td></td>
     <td>Database modelled on the Norwegian Railway sytem</td>
     <td></td>
   </tr>
   <tr>
     <td><a href="https://github.com/the-future-dev/secure-help">secure help</a></td>
-    <td>🟡React, 🔵Django</td>
+    <td>🟡React<br>🔵Django</td>
     <td>
       Security<br>
       OWASP
@@ -40,7 +40,7 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
   </tr>
   <tr>
     <td><a href="https://github.com/the-future-dev/Financial-Bites">Financial Bites</a></td>
-    <td>🟡React Native, Firebase</td>
+    <td>🟡React Native<br>〇Firebase</td>
     <td>Mobile</td>
     <td>Mobile application for financial education</td>
     <td></td>
