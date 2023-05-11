@@ -12,25 +12,25 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
     <th>Link</th>
   </tr>
   <tr>
-    <td>**[fuel-fighter-2023](https://github.com/the-future-dev/fuelfighter2023)**</td>
+    <td><a href="https://github.com/the-future-dev/fuelfighter2023">Fuel Fighter NTNU</a></td>
     <td>React, PHP</td>
     <td>New website for the universitary association Fuel Fighter NTNU.</td>
     <td>[available here](https://www.fuelfighter.no/)</td>
   </tr>
   <tr>
-    <td>**[Norwegian Railway](https://github.com/the-future-dev/NorwegianRailway)**</td>
+    <td><a href="https://github.com/the-future-dev/NorwegianRailway">Norwegian Railway</a></td>
     <td>SQLite, Python</td>
     <td>Database modelled on the Norwegian Railway sytem</td>
     <td></td>
   </tr>
   <tr>
-    <td>**[secure help](https://github.com/the-future-dev/secure-help)**</td>
+    <td><a href="https://github.com/the-future-dev/secure-help">secure help</a></td>
     <td>React, Django</td>
     <td>Identification and mitigation of vulnerabilities on the provided application</td>
     <td>[available here](https://www.fuelfighter.no/)</td>
   </tr>
   <tr>
-    <td>**[Norwegian Railway](https://github.com/the-future-dev/NorwegianRailway)**</td>
+    <td><a href="https://github.com/the-future-dev/NorwegianRailway">Norwegian Railway</a></td>
     <td>SQLite, Python</td>
     <td>Database modelled on the Norwegian Railway sytem</td>
     <td></td>
