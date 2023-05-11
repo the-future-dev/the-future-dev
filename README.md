@@ -29,6 +29,12 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
     <td>Database modelled on the Norwegian Railway sytem</td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/the-future-dev/Financial-Bites">Financial Bites</a></td>
+    <td>React Native, Firebase</td>
+    <td>Mobile application for financial education</td>
+    <td></td>
+  </tr>
 </table>
 
 ## 🌱 I’m currently learning
