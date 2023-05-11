@@ -6,8 +6,6 @@ I'm a developer from Bologna (IT), currently living in Trondheim (NO). Welcome t
 - **fuel-fighter-2023**
 - **NorwegianRailway**
 
-##    I'll work as Software Engineer Intern at Mazemap in Trondheim for the summe 2023.
-
 ## 🌱 I’m currently learning
 - Software Security and Data Privacy
 - Full Stack Development
