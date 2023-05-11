@@ -3,8 +3,9 @@
 I'm a developer from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub profile!
 
 ## 🔭 Projects suggested 
-- **fuel-fighter-2023**
-- **NorwegianRailway**
+- **fuel-fighter-2023**: New website for the universitary association [Fuel Fighter](https://www.fuelfighter.no/)
+- **secure-help**: Identification and mitigation of vulnerabilities on the provided application
+- **NorwegianRailway**: Interact with a SQLite database modelled on the Norwegian Railway sytem from Python commandline
 
 ## 🌱 I’m currently learning
 - Software Security and Data Privacy
