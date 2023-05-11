@@ -8,7 +8,7 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
   <tr>
     <th>Project</th>
     <th>Tech</th>
-    <th>Keywords<th>
+    <th>Keywords</th>
     <th>Description</th>
     <th>Link</th>
   </tr>
