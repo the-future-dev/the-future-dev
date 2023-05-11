@@ -1,6 +1,6 @@
 # 👋 I'm Andrea Ritossa 
 
-I'm a developer from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub profile!
+I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub profile!
 
 ## 🔭 Projects suggested 
 - **[fuel-fighter-2023](https://github.com/the-future-dev/fuelfighter2023)**: New website for the universitary association [Fuel Fighter](https://www.fuelfighter.no/)
