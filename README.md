@@ -27,7 +27,7 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
     <td><a href="https://github.com/the-future-dev/secure-help">secure help</a></td>
     <td>React, Django</td>
     <td>Identification and mitigation of vulnerabilities on the provided application</td>
-    <td>[available here](https://www.fuelfighter.no/)</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://github.com/the-future-dev/NorwegianRailway">Norwegian Railway</a></td>
