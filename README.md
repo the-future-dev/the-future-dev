@@ -22,8 +22,8 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
   <tr>
     <td><a href="https://github.com/the-future-dev/NorwegianRailway">Norwegian Railway</a></td>
     <td>🔴SQLite<br>🔵Python</td>
-    <td></td>
-    <td>Database modelled on the Norwegian Railway sytem</td>
+    <td>Database</td>
+    <td>Based on Norwegian Railway sytem: model, queries and interface</td>
     <td></td>
   </tr>
   <tr>
