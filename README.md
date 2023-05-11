@@ -15,7 +15,7 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
     <td><a href="https://github.com/the-future-dev/fuelfighter2023">Fuel Fighter NTNU</a></td>
     <td>🟡React, 🟢PHP</td>
     <td>New website for the universitary association Fuel Fighter NTNU.</td>
-    <td>[available here](https://www.fuelfighter.no/)</td>
+    <td><a href="https://www.fuelfighter.no/">fuelfighter.no</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/the-future-dev/NorwegianRailway">Norwegian Railway</a></td>
