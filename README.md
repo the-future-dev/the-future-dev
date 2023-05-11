@@ -43,6 +43,10 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
 - Software Security and Data Privacy
 - Full Stack Development
 
+## 😊 Looking forward to learn:
+- Artificial Intelligence
+- Optimization and Control
+
 ## 💬 Ask me about
 - My projects
 - My experience as a developer
