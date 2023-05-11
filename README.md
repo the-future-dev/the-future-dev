@@ -7,7 +7,7 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
 <table>
   <tr>
     <th>Project</th>
-    <th>Language</th>
+    <th>Tech</th>
     <th>Description</th>
     <th>Link</th>
   </tr>
