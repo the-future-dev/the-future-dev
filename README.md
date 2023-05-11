@@ -6,7 +6,7 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
 - **[fuel-fighter-2023](https://github.com/the-future-dev/fuelfighter2023)**: New website (react and PHP) for the universitary association [Fuel Fighter](https://www.fuelfighter.no/)
 - **[Norwegian Railway](https://github.com/the-future-dev/NorwegianRailway)**: SQLite database modelled on the Norwegian Railway sytem from Python commandline
 - **[secure help](https://github.com/the-future-dev/secure-help)**: Identification and mitigation of vulnerabilities on the provided application
-- **[Financial Bites]:** React-native application for financial education
+- **financial bites:** React-native application for financial education
 
 ## 🌱 I’m currently learning
 - Software Security and Data Privacy
