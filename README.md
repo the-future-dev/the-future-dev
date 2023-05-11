@@ -29,10 +29,7 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
   <tr>
     <td><a href="https://github.com/the-future-dev/secure-help">secure help</a></td>
     <td>🟡React<br>🔵Django</td>
-    <td>
-      Security<br>
-      OWASP
-    </td>
+    <td>Security</td>
     <td>Identification and mitigation of vulnerabilities on the provided application</td>
     <td><a href="https://github.com/the-future-dev/secure-help/blob/master/Vulnerabilities%20Identification%20Report.pdf">Identification Report</a>
     <br>
