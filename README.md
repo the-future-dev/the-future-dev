@@ -27,7 +27,9 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
     <td><a href="https://github.com/the-future-dev/NorwegianRailway">Norwegian Railway</a></td>
     <td>SQLite, Python</td>
     <td>Database modelled on the Norwegian Railway sytem</td>
-    <td></td>
+    <td><a href="https://github.com/the-future-dev/secure-help/blob/master/Vulnerabilities%20Identification%20Report.pdf">Identification Report</a>
+    <br>
+    <a href="https://github.com/the-future-dev/secure-help/blob/master/Vulnerabilities%20Mitigation%20Report.pdf">Mitigation Report</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/the-future-dev/Financial-Bites">Financial Bites</a></td>
