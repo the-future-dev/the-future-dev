@@ -36,9 +36,9 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
     <a href="https://github.com/the-future-dev/secure-help/blob/master/Vulnerabilities%20Mitigation%20Report.pdf">Mitigation Report</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/the-future-dev/RISCV-FiveStages">My processor</a></td>
-    <td>🔴Scala<br>⭕Assembly</td>
-    <td>Database</td>
+    <td><a href="https://github.com/the-future-dev/RISCV-FiveStage">My processor</a></td>
+    <td>🔴Scala       <br>⭕Assembly</td>
+    <td>Computer Architecture</td>
     <td>Implementation of a processor with RISCV ISA. Complete with branch prediction.</td>
     <td></td>
   </tr>
