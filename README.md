@@ -42,6 +42,13 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
     <td>Implementation of a processor with RISCV ISA. Complete with branch prediction.</td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/the-future-dev/system_modeling">Dynamic System Modeling</a></td>
+    <td>🔵Python</td>
+    <td>Neural Networks</td>
+    <td>Simulation of dynamic systems to generate data and training neural networks for behavior prediction.</td>
+    <td></td>
+  </tr>
 </table>
 
 ## 💬 Ask me about
