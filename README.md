@@ -13,17 +13,17 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
     <th>Link</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/the-future-dev/fuelfighter2023">Fuel Fighter NTNU</a></td>
-    <td>🟡React<br>🟢PHP</td>
-    <td>Full Stack</td>
-    <td>New website for the universitary association Fuel Fighter NTNU.</td>
-    <td><a href="https://www.fuelfighter.no/">fuelfighter.no</a></td>
+    <td><a href="https://github.com/the-future-dev/riot-lstm-article/blob/main/main.ipynb">lstm</a></td>
+    <td>🔵Python</td>
+    <td>Neural Networks</td>
+    <td>Employment of an LSTM model for stock price forecasting. The repository also contains an article studying LSTM and its usage in the finance scope.</td>
+    <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/the-future-dev/NorwegianRailway">Norwegian Railway</a></td>
-    <td>🔴SQLite<br>🔵Python</td>
-    <td>Database</td>
-    <td>Based on Norwegian Railway sytem: model, queries and interface</td>
+    <td><a href="https://github.com/the-future-dev/RISCV-FiveStage">My processor</a></td>
+    <td>🔴Scala       <br>⭕Assembly</td>
+    <td>Computer Architecture</td>
+    <td>Implementation of a processor with RISCV ISA. Complete with branch prediction.</td>
     <td></td>
   </tr>
   <tr>
@@ -36,18 +36,18 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
     <a href="https://github.com/the-future-dev/secure-help/blob/master/Vulnerabilities%20Mitigation%20Report.pdf">Mitigation Report</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/the-future-dev/RISCV-FiveStage">My processor</a></td>
-    <td>🔴Scala       <br>⭕Assembly</td>
-    <td>Computer Architecture</td>
-    <td>Implementation of a processor with RISCV ISA. Complete with branch prediction.</td>
+    <td><a href="https://github.com/the-future-dev/NorwegianRailway">Norwegian Railway</a></td>
+    <td>🔴SQLite<br>🔵Python</td>
+    <td>Database</td>
+    <td>Based on Norwegian Railway sytem: model, queries and interface</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/the-future-dev/system_modeling">Dynamic System Modeling</a></td>
-    <td>🔵Python</td>
-    <td>Neural Networks</td>
-    <td>Simulation of dynamic systems to generate data and training neural networks for behavior prediction.</td>
-    <td></td>
+    <td><a href="https://github.com/the-future-dev/fuelfighter2023">Fuel Fighter NTNU</a></td>
+    <td>🟡React<br>🟢PHP</td>
+    <td>Full Stack</td>
+    <td>New website for the universitary association Fuel Fighter NTNU.</td>
+    <td><a href="https://www.fuelfighter.no/">fuelfighter.no</a></td>
   </tr>
 </table>
 
