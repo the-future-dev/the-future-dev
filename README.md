@@ -51,10 +51,6 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
   </tr>
 </table>
 
-## 💬 Ask me about
-- My projects
-- My experience as a developer
-
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/andrea-ritossa/)
 
