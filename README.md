@@ -16,7 +16,7 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
     <td><a href="https://github.com/the-future-dev/riot-lstm-article/blob/main/main.ipynb">lstm</a></td>
     <td>🔵Python</td>
     <td>Neural Networks</td>
-    <td>Employment of an LSTM model for stock price forecasting. The repository also contains an article studying LSTM and its usage in the finance scope.</td>
+    <td>Employment of an LSTM model for stock price forecasting, findings: attention is all you need.</td>
     <td></td>
   </tr>
   <tr>
