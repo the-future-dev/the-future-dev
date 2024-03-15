@@ -52,8 +52,8 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
 </table>
 
 ## 📫 How to reach me
-- [phone](+39 3240980582)
-- [gmail](andre.ritossa@gmail.com)
+- 📱: +39 3240980582
+- 📧: andre.ritossa@gmail.com
 - [linkedIn](https://www.linkedin.com/in/andrea-ritossa/)
 
 Thanks for stopping by!
