@@ -1,6 +1,6 @@
 # 👋 I'm Andrea Ritossa 
 
-I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub profile!
+Building the future, one line of code at a time. Check out my projects and let's connect!
 
 ## 🔭 Projects suggested 
 
@@ -13,10 +13,10 @@ I'm from Bologna (IT), currently living in Trondheim (NO). Welcome to my GitHub 
     <th>Link</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/the-future-dev/riot-lstm-article/blob/main/main.ipynb">lstm</a></td>
+    <td><a href="https://github.com/the-future-dev/MM_LLMs-vs-CV">VLMs as image classifiers</a></td>
     <td>🔵Python</td>
-    <td>Neural Networks</td>
-    <td>Employment of an various models for stock price forecasting, findings: attention is all you need.</td>
+    <td>VLMs, Hugging Face</td>
+    <td>Vision Language Models as Image Classifiers: An Experimental Study</td>
     <td></td>
   </tr>
   <tr>
