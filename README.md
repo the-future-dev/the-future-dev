@@ -1,8 +1,6 @@
 # 👋 I'm Andrea Ritossa 
 
-Building the future, one line of code at a time. Check out my projects and let's connect!
-
-## 🔭 Projects suggested 
+## 🔭 Little Projects
 
 <table>
   <tr>
@@ -11,6 +9,13 @@ Building the future, one line of code at a time. Check out my projects and let's
     <th>Keywords</th>
     <th>Description</th>
     <th>Link</th>
+  </tr>
+  <tr>
+    <td>Sample Efficient Imitation Learning using Diffusion models for Deformable Object Manipulation</td>
+    <td></td>
+    <td>Diffusion, Robotics, Vision Language Action</td>
+    <td>Work in Progress</td>
+    <td>RPL lab at KTH</td>
   </tr>
   <tr>
     <td><a href="https://github.com/the-future-dev/MM_LLMs-vs-CV">VLMs as image classifiers</a></td>
