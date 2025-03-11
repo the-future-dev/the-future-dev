@@ -1,7 +1,9 @@
 # 👋 I'm Andrea Ritossa 
+- 📱: +39 3240980582
+- [linkedIn](https://www.linkedin.com/in/andrea-ritossa/)
+- [🤗hugging-face](https://huggingface.co/the-future-dev)
 
 ## 🔭 Little Projects
-
 <table>
   <tr>
     <th>Project</th>
@@ -55,10 +57,5 @@
     <td><a href="https://www.fuelfighter.no/">fuelfighter.no</a></td>
   </tr>
 </table>
-
-## 📫 How to reach me
-- 📱: +39 3240980582
-- 📧: andre.ritossa@gmail.com
-- [linkedIn](https://www.linkedin.com/in/andrea-ritossa/)
 
 Thanks for stopping by!
