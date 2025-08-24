@@ -13,6 +13,13 @@
     <th>Link</th>
   </tr>
   <tr>
+    <td>Odissea</td>
+    <td></td>
+    <td>Agents, LLMs</td>
+    <td>Interactive story telling gen-AI enabled: be the main character in any story!</td>
+    <td><a href="https://odissea.app/">odissea.app</a></td>
+  </tr>
+  <tr>
     <td>Sample Efficient Imitation Learning using Diffusion models for Deformable Object Manipulation</td>
     <td></td>
     <td>Diffusion, Robotics, Vision Language Action</td>
