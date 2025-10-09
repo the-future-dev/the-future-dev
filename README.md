@@ -1,7 +1,6 @@
 # 👋 I'm Andrea Ritossa 
 - 📱: +39 3240980582
-- [linkedIn](https://www.linkedin.com/in/andrea-ritossa/)
-- [🤗hugging-face](https://huggingface.co/the-future-dev)
+- 💼 [linkedIn](https://www.linkedin.com/in/andrea-ritossa/)
 
 ## 🔭 Little Projects
 <table>
@@ -14,17 +13,17 @@
   </tr>
   <tr>
     <td>Odissea</td>
-    <td></td>
+    <td>🟣LLMs/Agents 🟡React Native</td>
     <td>Agents, LLMs</td>
     <td>Interactive story telling gen-AI enabled: be the main character in any story!</td>
-    <td><a href="https://odissea.app/">odissea.app</a></td>
+    <td><a href="https://odissea.app/">demo</a><br><a href="https://github.com/the-future-dev/odissey">codebase</a></td>
   </tr>
   <tr>
-    <td>Sample Efficient Imitation Learning using Diffusion models for Deformable Object Manipulation</td>
-    <td></td>
+    <td>Research at KTH <a href="https://www.kth.se/is/rpl">RPL</a></td>
+    <td>🔵PyTorch</td>
     <td>Diffusion, Robotics, Vision Language Action</td>
-    <td>Work in Progress</td>
-    <td>RPL lab at KTH</td>
+    <td>Sample Efficient Imitation Learning using Diffusion models for Deformable Object Manipulation</td>
+    <td><a href="https://github.com/the-future-dev/cloth-diff/">codebase</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/the-future-dev/MM_LLMs-vs-CV">VLMs as image classifiers</a></td>
