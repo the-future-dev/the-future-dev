@@ -52,7 +52,7 @@
 
 </table>
 
-## 🔬 Applied ML & Robotics Research  
+## 🔬 Applied ML & Robotics  
 
 <table>
   <tr>
@@ -74,6 +74,24 @@
     <td>2025</td>
   </tr>
 
+  <tr>
+    <td>RL for Quadruped Locomotion</td>
+    <td>JAX, Mujoco</td>
+    <td>Reinforcement Learning</td>
+    <td>Distilled the baseline PPO agent on student policy, with variations: DAgger vs Behaviour Cloning, MSE vs KL loss</td>
+    <td><a href="https://github.com/hedemil/EAI2025_RL_FINAL">codebase</a></td>
+    <td>2025</td>
+  </tr>
+
+  <tr>
+    <td>Grumpy (KTH - DD2419)</td>
+    <td>ROS2</td>
+    <td>robotics</td>
+    <td>In 4, we implemented a ROS2-based autonomous robot: mapping, planning, localization, perception, control</td>
+    <td><a href="https://github.com/the-future-dev/grumpy">codebase</a></td>
+    <td>2025</td>
+  </tr>
+  
   <!-- Bachelor Thesis -->
   <tr>
     <td>Bachelor Thesis</td>
