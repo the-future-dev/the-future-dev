@@ -1,8 +1,10 @@
-# 👋 I'm Andrea Ritossa 
+# 👋 I'm Andrea Ritossa
 - 📱: +39 3240980582
 - 💼 [linkedIn](https://www.linkedin.com/in/andrea-ritossa/)
+- 🧠 Focus: Agentic AI • Backend Engineering • Python • ML Systems • Robotics ML
 
-## 🔭 My Personal Projects
+## 🚀 AI & Software Engineering Projects
+
 <table>
   <tr>
     <th>Project</th>
@@ -12,62 +14,119 @@
     <th>Link</th>
     <th>Date</th>
   </tr>
+
+  <!-- Odissea -->
   <tr>
     <td>Odissea</td>
-    <td>🟣LLMs/Agents 🟡React Native</td>
-    <td>Agents, LLMs</td>
-    <td>Interactive story telling gen-AI enabled: be the main character in any story!</td>
-    <td><a href="https://odissea.app/">demo</a><br><a href="https://github.com/the-future-dev/odissey">codebase</a></td>
+    <td>🟣 LLM Agents · 🟡 React Native</td>
+    <td>AI Agents, LLM Apps</td>
+    <td>Interactive generative-storytelling app powered by custom agentic pipelines.</td>
+    <td>
+      <!-- <a href="https://odissea.app/">demo</a><br> -->
+      <a href="https://github.com/the-future-dev/odissey">codebase</a></td>
     <td>2025</td>
   </tr>
+
+  <!-- Cybersecurity Project -->
   <tr>
-    <td>Research at KTH <a href="https://www.kth.se/is/rpl">RPL</a></td>
-    <td>🔵PyTorch</td>
-    <td>Diffusion, Robotics, Vision Language Action</td>
-    <td>Sample Efficient Imitation Learning using Diffusion models for Deformable Object Manipulation</td>
-    <td><a href="https://github.com/the-future-dev/cloth-diff/">codebase</a></td>
-    <td>2025</td>
-  </tr>
-  <tr>
-    <td>Bachelor Thesis</td>
-    <td>🔵Python</td>
-    <td>VLMs, Hugging Face</td>
-    <td>An Experimental Study on Vision Language Models (VLMs) as Image Classifiers</td>
-    <td><a href="https://github.com/the-future-dev/MM_LLMs-vs-CV">codebase</a></td>
-    <td>2024</td>
-  </tr>
-  <tr>
-    <td>My RISC-V processor</td>
-    <td>🔴Scala<br>⭕Assembly</td>
-    <td>Computer Architecture</td>
-    <td>Implementation of a processor with RISCV ISA. Complete with branch prediction.</td>
-    <td><a href="https://github.com/the-future-dev/RISCV-FiveStage">code</a></td>
+    <td>Web-App Cybersecurity</td>
+    <td>🟡 React · 🔵 Django</td>
+    <td>Security, Backend</td>
+    <td>Security audit and vulnerability mitigation for a full-stack application.</td>
+    <td>
+      <a href="https://github.com/the-future-dev/secure-help/blob/master/Vulnerabilities%20Identification%20Report.pdf">Identification</a><br>
+      <a href="https://github.com/the-future-dev/secure-help/blob/master/Vulnerabilities%20Mitigation%20Report.pdf">Mitigation</a>
+    </td>
     <td>2023</td>
   </tr>
+
+  <!-- Fuel Fighter -->
   <tr>
-    <td>Web-App cybersecurity</td>
-    <td>🟡React<br>🔵Django</td>
-    <td>Security</td>
-    <td>Identification and mitigation of vulnerabilities on the provided application</td>
-    <td><a href="https://github.com/the-future-dev/secure-help/blob/master/Vulnerabilities%20Identification%20Report.pdf">Identification Report</a><br><a href="https://github.com/the-future-dev/secure-help/blob/master/Vulnerabilities%20Mitigation%20Report.pdf">Mitigation Report</a></td>
-    <td>2023</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/the-future-dev/NorwegianRailway">Norwegian Railway</a></td>
-    <td>🔴SQLite<br>🔵Python</td>
-    <td>Database</td>
-    <td>Based on Norwegian Railway sytem: model, queries and interface</td>
-    <td></td>
-    <td>2023</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/the-future-dev/fuelfighter2023">Fuel Fighter NTNU</a></td>
-    <td>🟡React<br>🟢PHP</td>
+    <td>Fuel Fighter NTNU</a></td>
+    <td>🟡 React · 🟢 PHP</td>
     <td>Full Stack</td>
-    <td>New website for the universitary association Fuel Fighter NTNU.</td>
+    <td>Full-stack website redesign and deployment for NTNU’s engineering association.</td>
     <td><a href="https://www.fuelfighter.no/">fuelfighter.no</a></td>
     <td>2023</td>
   </tr>
+
+</table>
+
+## 🔬 Applied ML & Robotics Research  
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Tech</th>
+    <th>Keywords</th>
+    <th>Description</th>
+    <th>Link</th>
+    <th>Date</th>
+  </tr>
+
+  <!-- KTH Research -->
+  <tr>
+    <td>Research at KTH <a href="https://www.kth.se/is/rpl">RPL</a></td>
+    <td>🔵 PyTorch</td>
+    <td>Diffusion Models, Robotics ML</td>
+    <td>Diffusion-based imitation learning for efficient deformable object manipulation.</td>
+    <td><a href="https://github.com/the-future-dev/cloth-diff/">codebase</a></td>
+    <td>2025</td>
+  </tr>
+
+  <!-- Bachelor Thesis -->
+  <tr>
+    <td>Bachelor Thesis</td>
+    <td>🔵 Python</td>
+    <td>VLMs, HuggingFace</td>
+    <td>Evaluation of Vision-Language Models as scalable image classifiers.</td>
+    <td><a href="https://github.com/the-future-dev/MM_LLMs-vs-CV">codebase</a></td>
+    <td>2024</td>
+  </tr>
+</table>
+
+## 🧰 Additional Engineering Projects  
+<small>*Broader engineering depth — systems, architecture, databases.*</small>
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Tech</th>
+    <th>Keywords</th>
+    <th>Description</th>
+    <th>Link</th>
+    <th>Date</th>
+  </tr>
+
+  <!-- RISC-V -->
+  <tr>
+    <td>My RISC-V Processor</td>
+    <td>🔴 Scala · ⭕ Assembly</td>
+    <td>Computer Architecture</td>
+    <td>Five-stage RISC-V CPU with branch prediction, built from scratch.</td>
+    <td><a href="https://github.com/the-future-dev/RISCV-FiveStage">code</a></td>
+    <td>2023</td>
+  </tr>
+
+  <!-- Norwegian Railway -->
+  <tr>
+    <td>Norwegian Railway</td>
+    <td>🔴 Databases </td>
+    <td>Database</td>
+    <td>Database modeling, queries and CLI interface for a full railway system.</td>
+    <td><a href="https://github.com/the-future-dev/NorwegianRailway">codebase</a></td>
+    <td>2023</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/the-future-dev/Van-de-Vusse-reaction-in-an-isothermal-CSTR">Isothermal CSTR Control</a></td>
+    <td> MATLAB / Simulink</td>
+    <td>Control Systems, Process Modeling</td>
+    <td>Simulation of the Van de Vusse reaction in an isothermal CSTR, including PID feedback and proportional feedforward control.</td>
+    <td><a href="https://github.com/the-future-dev/Van-de-Vusse-reaction-in-an-isothermal-CSTR">code</a></td>
+    <td>2022</td>
+  </tr>
+
 </table>
 
 
